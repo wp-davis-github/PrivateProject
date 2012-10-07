@@ -1,0 +1,8 @@
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (1, N'AFC East', 1)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (2, N'AFC North', 1)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (3, N'AFC South', 1)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (4, N'AFC West', 1)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (5, N'NFC East', 2)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (6, N'NFC North', 2)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (7, N'NFC South', 2)
+INSERT [dbo].[Division] ([Id], [Name], [ConferenceId]) VALUES (8, N'NFC West', 2)
